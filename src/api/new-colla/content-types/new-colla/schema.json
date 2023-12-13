@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "new_collas",
+  "info": {
+    "singularName": "new-colla",
+    "pluralName": "new-collas",
+    "displayName": "new-colla"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "email"
+    },
+    "inform": {
+      "type": "json"
+    }
+  }
+}
